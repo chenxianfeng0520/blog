@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>Cancel</title>
   
-  
+  <subtitle>blog</subtitle>
   <link href="https://chenxianfeng0520.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://chenxianfeng0520.github.io/blog/"/>
